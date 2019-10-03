@@ -4,4 +4,4 @@
 simple todo app
 
 ## todo-redux
-same todo app using redux
+same todo app using redux for state management
