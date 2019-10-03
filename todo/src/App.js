@@ -22,6 +22,7 @@ class App extends Component {
     this.submitHandler = this.submitHandler.bind(this)
   }
 
+  //this is passed down to NewTodoItem in order to add new todo item
   submitHandler(todo) {
     this.setState({
       todos: [...this.state.todos, todo]
