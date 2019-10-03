@@ -6,7 +6,7 @@ simple todo app
 
 <hr>
 ## todo-redux
-same todo app using redux
+same todo app using redux for state management
 
 App is same as previous 'react-todo-app'.
 This app use 'react-redux'.
